@@ -1,0 +1,11 @@
+{
+  "name": "quiz-project",
+  "version": "1.0.0",
+  "description": "This is the first assignment project, which will showcase my understanding of JavaScript by creating a quiz.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
